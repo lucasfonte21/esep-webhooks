@@ -15,3 +15,4 @@ C:\Users\juicy\desktop\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\r
 C:\Users\juicy\desktop\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\EsepWebhook.pdb
 C:\Users\juicy\desktop\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\juicy\desktop\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\juicy\desktop\esep-webhooks\esepwebhook\obj\Release\net10.0\linux-x64\EsepWebhook.sourcelink.json
